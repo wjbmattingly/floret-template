@@ -1,0 +1,1 @@
+This repository provides a blank template for training floret embeddings and then creating a spaCy pipeline from those embeddings. The notebook "create_floret_embeddings" contains the steps.
